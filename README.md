@@ -1,3 +1,1 @@
 sushi
-sakana
-curry
